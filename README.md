@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Full Stack webapp made with Remix using TypeScritipt
 
 - [Remix Docs](https://remix.run/docs)
 
