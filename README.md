@@ -1,4 +1,4 @@
-# Full Stack webapp made with Remix using TypeScritipt
+# Full Stack webapp made with Remix using TypeScript
 
 - [Remix Docs](https://remix.run/docs)
 
